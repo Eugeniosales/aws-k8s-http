@@ -1,0 +1,4 @@
+private-key
+env/
+.terraform
+.terraform.lock.hcl
